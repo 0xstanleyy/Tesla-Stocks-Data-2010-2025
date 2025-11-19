@@ -29,6 +29,21 @@ To conduct a Technical Analysis (TA) on Tesla's historical stock data (TSLA) by 
 
 
 
+<img width="1310" height="772" alt="image" src="https://github.com/user-attachments/assets/e6150975-314b-4ff9-91ae-a2108a04bc0f" />
+
+
+**Observation** : The Price plot shows a massive exponential increase starting around 2020. The Volume plot simultaneously shows a drastic, sustained surge in daily trading activity, peaking in the same period.
+
+**Finding (The Volume-Price Relationship)** : The strong correlation between the two signals Trend Confirmation.
+
+**Low Volume + Stable Price (2010–2019)**: The early, slow price movements were not backed by high market participation (institutional or retail). This indicates that the trend during this decade lacked the conviction to sustain rapid movement.
+
+**High Volume + Rising Price (2020–2025)**: The explosive price move was validated and confirmed by the significant increase in trading volume. In technical analysis, when price moves up on increasing volume, it is a strong bullish signal. This suggests the rally was driven by strong demand and major commitment from market participants.
+
+
+
+
+
 
 
 
