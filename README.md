@@ -1,7 +1,7 @@
 # Tesla-Stocks-Data-2010-2025
-**Project Type**:Data retrieval → cleaning/EDA → interactive visualization
+**Project Type**:Data retrieval → cleaning/EDA → Visualization
 
-**Scope**: G20 + Nigeria economies, 2018–2023
+**Scope**: 2010–2025
 
 **Tools**: Python ( pandas, matplotlib/seaborn)
 
