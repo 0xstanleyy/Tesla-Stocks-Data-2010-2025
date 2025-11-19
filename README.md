@@ -9,6 +9,7 @@
 To conduct a Technical Analysis (TA) on Tesla's historical stock data (TSLA) by establishing a robust data visualization pipeline that reveals long-term price movements and the relationship between trading volume and closing price from 2010 to 2025.
 
 # Results and Findings
+# Result 1
 <img width="680" height="539" alt="image" src="https://github.com/user-attachments/assets/4fa3d40b-57ab-486d-9c47-69bd6b87e2b0" />
 
 **Key Trend 1**: The Long Stable Phase (2010–2019)
@@ -27,7 +28,7 @@ To conduct a Technical Analysis (TA) on Tesla's historical stock data (TSLA) by 
 * Finding: The chart reveals increased price discovery and market indecision at higher valuations. The stock continues to demonstrate a strong upward bias over      the entire period, but risk (measured by volatility) remains significantly elevated.
 
 
-
+# Result 2
 
 <img width="1310" height="772" alt="image" src="https://github.com/user-attachments/assets/e6150975-314b-4ff9-91ae-a2108a04bc0f" />
 
